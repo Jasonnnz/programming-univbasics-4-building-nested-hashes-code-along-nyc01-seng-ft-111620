@@ -1,5 +1,6 @@
 def second_challenge
-  :montague => {
+  epic_tradegy = {
+    :montague => {
       :patriarch => {},
       :matriarch => {},
       :hero => {},
